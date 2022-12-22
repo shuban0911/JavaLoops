@@ -2,8 +2,7 @@
 public class GitNewFile {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		System.out.println("Added some text to check");
 	}
 
 }
